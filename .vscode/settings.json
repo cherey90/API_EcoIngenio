@@ -1,0 +1,6 @@
+{
+  "CodeGPT.query.language": "Spanish",
+  "CodeGPT.model": "text-davinci-003",
+  "CodeGPT.organizationId": "ch7r7y007",
+  "CodeGPT.maxTokens": 500
+}
